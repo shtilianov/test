@@ -38,7 +38,7 @@ spec(function(){
         flourTortillaRadio = [queries.tacoBuilder.tortilla, {tagName: "input", index: 1}],
         cheddaCard = [queries.billingInfo.cardType, {tagName: "input", index: 2}],
         ERROR_TEXT = "There were some problems with your order. Please correct them and submit again.",
-        SUCCESS_TEXT = "Thank you for your order! A download link for your piping hot tacos will be emailed to you as soon as they're ready!";
+        SUCCESS_TEXT = "Thank you for your order! A download link for your piping hot tacos will be emailed to you as soon as they're ready!фгдфгдфгдфгдфгдфгдфг";
 
     // define all steps here so they can be reused, and so that
     // the tests read in plain language
